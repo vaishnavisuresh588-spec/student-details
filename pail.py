@@ -15,6 +15,7 @@ def get_student_details():
     print(f"Grade: {grade}")
     print(f"Major: {major}")
     print(f"College: {college}")
+    print("hello world")
     
 # Call the function to execute the program
 get_student_details()
